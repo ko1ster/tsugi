@@ -26,3 +26,4 @@ Browser support is basically the same as stated for Polymer ~1.*. All major ever
 ##### Deploy changes
 - `polymer build`
 - `git subtree push --prefix build/bundled origin gh-pages`"# thevitl" 
+"# thevitl" 
