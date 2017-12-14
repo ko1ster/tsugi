@@ -22,6 +22,7 @@
     "evrythng": "4.0.1",
     "evrythng-ws": "^2.0.2",
     "evrythng-hub": "^1.2.2",
+    "evrythng-scan": "^1.2.2",
     "neon-animation": "^1.2.4",
     "paper-dialog": "^1.1.0",
     "paper-input": "^1.1.20",
@@ -41,9 +42,13 @@
     "voice-elements": "^1.0.0",
     "iron-scroll-threshold": "^1.0.2",
     "renderjson": "^1.2.2",
-    "evrythng-scan": "^1.2.2"
+    "gold-email-input": "^1.0.9"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
+  },
+  "resolutions": {
+    "evrythng": "^4.2.0",
+    "polymer": "^1.6.0"
   }
 }
